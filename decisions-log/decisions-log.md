@@ -46,3 +46,92 @@
 </td><td>
 	Nach Abschluss Sprint 0
 </td></tr></table>
+
+<table><tr><th>
+	DL00002
+</th><th>
+	Projektmanagement Tool
+</th></tr><tr><td>
+	Problembeschreibung / Ursache für eine Entscheidung
+</td><td>
+	Es wird ein Tool benötigt um das Projektmanagement sicherzustellen (Planung Sprints, Burndown Chart, Taskverteilung, ...)
+</td></tr><tr><td>
+	Problemlösung
+</td><td>
+	Nachdem wir uns zuerst für Trello entschieden haben und anschliessend festgestellt haben, dass Trello nicht alle Anforderungen wunschgemäss erfüllt haben wir uns entschlossen, für das Projektmanagement Jira zu verwenden. Dies da Jira sicher alle Anforderungen erfüllt, auch wenn Jira tendentiell viel mehr bietet als gebraucht wird. 
+</td></tr><tr><td>
+	Decisionsmaker
+</td><td>
+	Team
+</td></tr><tr><td>
+	Zeitpunkt der Entscheidung
+</td><td>
+	Nach Abschluss Sprint 0
+</td></tr></table>
+
+<table><tr><th>
+	DL00002
+</th><th>
+	Projektmanagement Tool
+</th></tr><tr><td>
+	Problembeschreibung / Ursache für eine Entscheidung
+</td><td>
+	Es wird ein Tool benötigt um das Projektmanagement sicherzustellen (Planung Sprints, Burndown Chart, Taskverteilung, ...)
+</td></tr><tr><td>
+	Problemlösung
+</td><td>
+	Nachdem wir uns zuerst für Trello entschieden haben und anschliessend festgestellt haben, dass Trello nicht alle Anforderungen wunschgemäss erfüllt haben wir uns entschlossen, für das Projektmanagement Jira zu verwenden. Dies da Jira sicher alle Anforderungen erfüllt, auch wenn Jira tendentiell viel mehr bietet als gebraucht wird. 
+</td></tr><tr><td>
+	Decisionsmaker
+</td><td>
+	Team
+</td></tr><tr><td>
+	Zeitpunkt der Entscheidung
+</td><td>
+	Nach Abschluss Sprint 0
+</td></tr></table>
+
+<table><tr><th>
+	DL00002
+</th><th>
+	Projektmanagement Tool
+</th></tr><tr><td>
+	Problembeschreibung / Ursache für eine Entscheidung
+</td><td>
+	Es wird ein Tool benötigt um das Projektmanagement sicherzustellen (Planung Sprints, Burndown Chart, Taskverteilung, ...)
+</td></tr><tr><td>
+	Problemlösung
+</td><td>
+	Nachdem wir uns zuerst für Trello entschieden haben und anschliessend festgestellt haben, dass Trello nicht alle Anforderungen wunschgemäss erfüllt haben wir uns entschlossen, für das Projektmanagement Jira zu verwenden. Dies da Jira sicher alle Anforderungen erfüllt, auch wenn Jira tendentiell viel mehr bietet als gebraucht wird. 
+</td></tr><tr><td>
+	Decisionsmaker
+</td><td>
+	Team
+</td></tr><tr><td>
+	Zeitpunkt der Entscheidung
+</td><td>
+	Nach Abschluss Sprint 0
+</td></tr></table>
+
+<table><tr><th>
+	[create an anchor](#DL00002)
+	DL00002
+</th><th>
+	Projektmanagement Tool
+</th></tr><tr><td>
+	Problembeschreibung / Ursache für eine Entscheidung
+</td><td>
+	Es wird ein Tool benötigt um das Projektmanagement sicherzustellen (Planung Sprints, Burndown Chart, Taskverteilung, ...)
+</td></tr><tr><td>
+	Problemlösung
+</td><td>
+	Nachdem wir uns zuerst für Trello entschieden haben und anschliessend festgestellt haben, dass Trello nicht alle Anforderungen wunschgemäss erfüllt haben wir uns entschlossen, für das Projektmanagement Jira zu verwenden. Dies da Jira sicher alle Anforderungen erfüllt, auch wenn Jira tendentiell viel mehr bietet als gebraucht wird. 
+</td></tr><tr><td>
+	Decisionsmaker
+</td><td>
+	Team
+</td></tr><tr><td>
+	Zeitpunkt der Entscheidung
+</td><td>
+	Nach Abschluss Sprint 0
+</td></tr></table>
