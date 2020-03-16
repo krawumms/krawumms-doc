@@ -114,7 +114,7 @@
 </td></tr></table>
 
 <table><tr><th>
-	[create an anchor](#DL00002)
+	[anchor](#DL00002)
 	DL00002
 </th><th>
 	Projektmanagement Tool
