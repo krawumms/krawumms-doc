@@ -113,8 +113,8 @@
 	Nach Abschluss Sprint 0
 </td></tr></table>
 
+# DL00002
 <table><tr><th>
-	[anchor](#DL00002)
 	DL00002
 </th><th>
 	Projektmanagement Tool
