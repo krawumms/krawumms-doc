@@ -85,8 +85,8 @@
 	Problemlösung
 </td><td>
 	Die gesamte Applikation wird in JavaScript / TypeScript geschrieben, da alle Teammitglieder diese Sprache schon gut kennen.
-* Das Frontend wird mithilfe von React entwickelt. Wir haben uns für React entschieden, da wir ein modernes UI bauen wollen und einzelne Teammitglieder gerne mehr Know-How in diesem Bereich aufbauen wollen.
-* Für das Backend verwenden wir Node.js und das Fastify Framework. Wir haben uns für dieses Framework entschieden, weil wir eine möglichst leichtgewichtige Lösung entwickeln wollen.
+- Das Frontend wird mithilfe von React entwickelt. Wir haben uns für React entschieden, da wir ein modernes UI bauen wollen und einzelne Teammitglieder gerne mehr Know-How in diesem Bereich aufbauen wollen.
+- Für das Backend verwenden wir Node.js und das Fastify Framework. Wir haben uns für dieses Framework entschieden, weil wir eine möglichst leichtgewichtige Lösung entwickeln wollen.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
