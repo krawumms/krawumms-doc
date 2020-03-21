@@ -43,7 +43,7 @@
 </td><td>
 	Team
 </td></tr><tr><td>
-	Zeitpunkt der Entscheidung
+	
 </td><td>
 	Nach Abschluss Sprint 0
 </td></tr></table>
@@ -52,23 +52,24 @@
 <table><tr><th>
 	DL00003
 </th><th>
-	...
+	Dokumentation
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Wir benötigen eine Platform, um unsere Dokumentation zentral zu erfassen.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Wir wollten zuerst alles in unserem Entwickler Github Repo im Wiki erfassen. Jedoch haben wir uns dann in Rücksprache mit Patrick für ein eigenes Repository entschieden, wo wir die Dokumentation erfassen.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Team
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
+	
 </td><td>
-	...
+	Sprint 0 - Review Meeting
 </td></tr></table>
 
 # DL00004
