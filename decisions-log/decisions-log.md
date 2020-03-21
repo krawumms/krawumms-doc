@@ -60,7 +60,7 @@
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	Wir wollten zuerst alles in unserem Entwickler Github Repo im Wiki erfassen. Jedoch haben wir uns dann in Rücksprache mit Patrick für ein eigenes Repository entschieden, wo wir die Dokumentation erfassen.
+	Wir wollten zuerst alles in unserem Haupt Repo im Wiki erfassen. Jedoch haben wir uns dann in Rücksprache mit Patrick für ein eigenes Repository entschieden, wo wir die Dokumentation erfassen werden.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
@@ -76,76 +76,78 @@
 <table><tr><th>
 	DL00004
 </th><th>
-	...
+	Programmiersprache / Frameworks
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Um effzient im Projekt arbeiten zu können, müssen wir uns für eine Programmiersprache entscheiden, die alle gut beherrschen.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Die gesamte Applikation wird in JavaScript / TypeScript geschrieben, da alle Teammitglieder diese Sprache schon gut kennen.
+Das Frontend wird mithilfe von React entwickelt. Wir haben uns für React entschieden, da wir ein modernes UI bauen wollen und einzelne Teammitglieder gerne mehr Know-How in diesem Bereich aufbauen wollen.
+Für das Backend verwenden wir Node.js und das Fastify Framework. Wir haben uns für dieses Framework entschieden, weil wir eine möglichst leichtgewichtige Lösung entwickeln wollen.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Team
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
-	...
+	Vor Sprint 0
 </td></tr></table>
 
 # DL00005
 <table><tr><th>
 	DL00005
 </th><th>
-	...
+	Version Control
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Wir benötigem ein Version Control System, wo wir unseren Code hochladen werden.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Als Version Control verwenden wir GitHub, da wir alle dieses Produkt schon sehr gut kennen. Uns ist vor allem wichtig, dass wir mit Git Repositories arbeiten können.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Team
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
-	...
+	Sprint 0 - Projekt Setup
 </td></tr></table>
 
 # DL00006
 <table><tr><th>
 	DL00006
 </th><th>
-	...
+	CI/CD Pipeline
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Es wird eine CI/CD Pipeline benötigt, die für eine kontinuierliche Automatisierung und Überwachung des gesamten App-Lifecycle sorgt. Das beinhaltet eine Integrations- und Test- bis hin zur Bereitstellungs- und Implementierungsphase. 
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Für unsere CI/CD Pipeline verwenden wir GitHub Actions. Diese Lösung ist direkt in GitHub integriert und sehr intuitiv. Ausserdem entstehen damit keinerlei Kosten, da GitHub Actions für Public Repositories gratis ist.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Team
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
-	...
+	Sprint 0 - Projekt Setup
 </td></tr></table>
 
 # DL00007
 <table><tr><th>
 	DL00007
 </th><th>
-	...
+	Code Coverage
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
