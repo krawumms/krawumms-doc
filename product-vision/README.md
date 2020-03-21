@@ -18,9 +18,7 @@
 	- [Browserkompatibilität](3.qualitaetsattribute.md#Browserkompatibilität)
 
 - [Bekannte Beschränkungen](4.bekannte_beschraenkungen.md)
-
 - [Verwendete Prinzipien](5.verwendete_prinzipien.md)
-
 - [Architektur](6.architektur.md)
 	- [Containers](6.architektur.md#Containers)
 
