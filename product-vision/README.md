@@ -1,5 +1,5 @@
 ## Index
 
-- [Kontext](1. kontext.md#kontext) - Kontext
+- [Kontext](1.kontext.md#kontext) - Kontext
 
 
