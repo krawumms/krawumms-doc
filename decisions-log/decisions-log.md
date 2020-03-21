@@ -103,7 +103,7 @@
 <table><tr><th>
 	DL00005
 </th><th>
-	Version Control
+	Version Control System
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
