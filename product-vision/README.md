@@ -5,7 +5,7 @@
 	1. [Externe Systeme](1.kontext.md#Externe-Systeme)
 	
 2. [Ziele und Hauptfunktionen](2.ziele_und_hauptfunktionen.md)
-2. [Veranstaltung](2.ziele_und_hauptfunktionen.md#Veranstaltung)
+	2. [Veranstaltung](2.ziele_und_hauptfunktionen.md#Veranstaltung)
 	2. [Playlist](2.ziele_und_hauptfunktionen.md#Playlist)
 	2. [Song](2.ziele_und_hauptfunktionen.md#Song)
 	2. [Users](2.ziele_und_hauptfunktionen.md#User)
