@@ -43,7 +43,7 @@
 </td><td>
 	Team
 </td></tr><tr><td>
-	
+	Zeitpunkt der Entscheidung
 </td><td>
 	Nach Abschluss Sprint 0
 </td></tr></table>
@@ -153,65 +153,65 @@
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Es wird ein Code Coverage Tool benötigt, welches uns den Abdeckungsgrad in unserem Code angibt.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Für die Code Coverage verwenden wir CodeCov. Es ist sehr einfach CodeCov in unsere bisherige Toolauswahl zu integrieren und ausserdem entstehen auch hier keinerlei Kosten für unsere Zwecke.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Team
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
-	...
+	Sprint 0 - Projekt Setup
 </td></tr></table>
 
 # DL00008
 <table><tr><th>
 	DL00008
 </th><th>
-	...
+	Application Hosting
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Um unsere Applikation Online zu bringen, wird eine Hosting-Plattform benötigt, welche unseren Bedürfnissen entspricht.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Um unsere Webapplikation zu hosten, werden wir ZEIT Now verwenden. Einzelne Teammitglieder haben schon damit gearbeitet, weshalb wir uns dafür entschieden haben. ZEIT Now macht es einem sehr einfach seine Webapplikation zu deployen und ausserdem lässt es sich wunderbar mit GitHub integrieren.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Team
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
-	...
+	Sprint 0 - Projekt Setup
 </td></tr></table>
 
 # DL00009
 <table><tr><th>
 	DL00009
 </th><th>
-	...
+	Datenbank
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Daten welche in der Krawumms Appliation verwendet werden, müssen in einer Datenbank hinterlegt werden können.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Als Datenbank verwenden wir MongoDB, weil der auf Dokumenten basierende Aufbau sehr gut auf unsere Bedürfnisse passt. Ausserdem ist im Team schon reichlich Know-How zu MongoDB vorhanden. Gehostet wird die Datenbank für unsere Webapplikation via MongoDB Atlas auf AWS. Dadurch entstehen keine oder nur minimale Kosten für uns.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Team
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
-	...
+	Sprint 0 - Projekt Setup
 </td></tr></table>
 
 # DL00010
