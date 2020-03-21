@@ -2,4 +2,4 @@
 
 - [Kontext](1.kontext.md#kontext)
 - [Ziele und Hauptfunktionen](2.ziele_und_hauptfunktionen.md#ZieleundHauptfunktionen)
-- [Qualitätsattribute](1.qualitaetsattribute.md#qualitaetsattribute)
+- [Qualitätsattribute](3.qualitaetsattribute.md#qualitaetsattribute)
