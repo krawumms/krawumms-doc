@@ -1,7 +1,7 @@
 ## Index
 
-1. [Kontext](1.kontext.md)
-	..1. [Users](1.kontext.md#Users)
+- [Kontext](1.kontext.md)
+        - [Users](1.kontext.md#Users)
 	- [Externe Systeme](1.kontext.md#Externe-Systeme)
 	
 - [Ziele und Hauptfunktionen](2.ziele_und_hauptfunktionen.md)
