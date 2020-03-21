@@ -1,8 +1,8 @@
 ## Index
 
 - [Kontext](1.kontext.md)
-  - [Users](1.kontext.md#Users)
-  - [Externe Systeme](1.kontext.md#Externe&nbsp;Systeme)
+	- [Users](1.kontext.md#Users)
+  - [Externe Systeme](1.kontext.md#Externe-Systeme)
 - [Ziele und Hauptfunktionen](2.ziele_und_hauptfunktionen.md)
 - [Qualitätsattribute](3.qualitaetsattribute.md)
 - [Bekannte Beschränkungen](4.bekannte_beschraenkungen.md)
