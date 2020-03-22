@@ -1,5 +1,5 @@
 # Weekly Meetings
-* [Weekly 24.02.2020](meeting-minutes.md#weekly-24\.02\.2020)
-* [Weekly 03.03.2020](meeting-minutes.md#weekly-03.03.2020)
-* [Weekly 09.03.2020](meeting-minutes.md#Weekly-09\.03\.2020)
-* [Weekly 16.03.2020](meeting-minutes.md#Weekly-16\.03\.2020)
+* [Weekly 24.02.2020](meeting-minutes.md#2020-24-02)
+* [Weekly 03.03.2020](meeting-minutes.md#2020-03-03)
+* [Weekly 09.03.2020](meeting-minutes.md#2020-03-09)
+* [Weekly 16.03.2020](meeting-minutes.md#2020-03-16)
