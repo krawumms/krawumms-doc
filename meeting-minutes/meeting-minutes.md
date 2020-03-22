@@ -61,7 +61,7 @@ _keine_
 ## Impediments
 _keine_
 
-# Weekly 24.02.2020
+# <a name="2020-24-02"></a> Weekly 24.02.2020
 
 ## Work Done
 * Definition der Management-Werkzeuge
