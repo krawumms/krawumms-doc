@@ -1,4 +1,4 @@
-# Weekly 16.03.2020
+# <a name="2020-03-16"></a> Weekly 16.03.2020
 
 ## Work Done
 * Wechsel von Trello auf Jira durchgeführt
@@ -20,7 +20,7 @@
 ## Impediments
 _keine_
 
-# Weekly 09.03.2020
+# <a name="2020-03-09"></a> Weekly 09.03.2020
 
 ## Work Done
 * Setup der Infrastruktur weitergeführt
@@ -38,7 +38,7 @@ _keine_
 ## Impediments
 _keine_
 
-# Weekly 03.03.2020
+# <a name="2020-03-03"></a> Weekly 03.03.2020
 
 ## Work Done
 * Management-Werkzeuge eingerichtet
@@ -61,7 +61,7 @@ _keine_
 ## Impediments
 _keine_
 
-# <a name="2020-24-02"></a> Weekly 24.02.2020
+# <a name="2020-02-24"></a> Weekly 24.02.2020
 
 ## Work Done
 * Definition der Management-Werkzeuge
