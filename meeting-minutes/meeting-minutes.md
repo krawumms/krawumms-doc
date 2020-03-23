@@ -1,3 +1,23 @@
+# <a name="2020-03-23"></a> Weekly 23.03.2020
+
+## Work Done
+* Setup der Infrastruktur fertiggestellt
+* CI/CD-Pipeline fertiggestellt
+* Spotify Login Prozess implementiert
+* Dokumentation in eigenes Repository ausgelagert
+* Entscheidungslog refaktorisiert
+
+## Next Steps
+* Spotify Access & Refresh Token Handling
+* Benutzerdaten persistieren und laden
+* Erste Hauptfeatures implementieren
+  * Party erstellen
+  * Songs suchen
+* Erster Entwurf für Fachartikel
+
+## Impediments
+_keine_
+
 # <a name="2020-03-16"></a> Weekly 16.03.2020
 
 ## Work Done
