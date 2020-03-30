@@ -1,3 +1,24 @@
+# <a name="2020-03-30"></a> Weekly 30.03.2020
+
+## Work Done
+* Sprint 1 Review & Retrospective durchgeführt
+* Sprint 2 Planning durchgeführt
+* Über Token Handling Best Practices informiert
+* Analyse durchgeführt, welche Benutzerdaten wir benötigen
+* Implementation der ersten Hauptfeatures gestartet
+* Erster Entwurf des Fachartikels begonnen
+
+## Next Steps
+* Spotify Access & Refresh Token Handling implementieren
+* Persistierung und Laden von Benutzerdaten implementieren
+* Erste Hauptfeatures fertigstellen
+  * Party erstellen
+  * Songs suchen
+* Erster Entwurf für Fachartikel fertigstellen
+
+## Impediments
+_keine_
+
 # <a name="2020-03-23"></a> Weekly 23.03.2020
 
 ## Work Done
@@ -8,6 +29,8 @@
 * Entscheidungslog refaktorisiert
 
 ## Next Steps
+* Sprint 1 Review & Retrospective
+* Sprint 2 Planning
 * Spotify Access & Refresh Token Handling
 * Benutzerdaten persistieren und laden
 * Erste Hauptfeatures implementieren

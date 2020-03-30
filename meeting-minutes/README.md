@@ -4,3 +4,4 @@
 * [Weekly 09.03.2020](meeting-minutes.md#2020-03-09)
 * [Weekly 16.03.2020](meeting-minutes.md#2020-03-16)
 * [Weekly 23.03.2020](meeting-minutes.md#2020-03-23)
+* [Weekly 30.03.2020](meeting-minutes.md#2020-03-30)
