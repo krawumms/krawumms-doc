@@ -1,3 +1,26 @@
+# <a name="2020-04-06"></a> Weekly 06.04.2020
+
+## Work Done
+* Spotify Personal Access & Refresh Token Handling implementiert
+* Persistierung und Laden von Benutzerdaten implementiert
+* Erste Hauptfeatures fertiggestellt
+  * Party erstellen
+  * Songs suchen
+* Erster Entwurf für Fachartikel fertiggestellt
+
+## Next Steps
+* Sprint 2 Review & Retrospective
+* Sprint 3 Planning
+* Spotify Anonymous Access
+* Party Sharing Code Generierung
+* Party Löschen
+* Party Playlist erstellen
+* Song Voting Funktionalität
+* Entwurf des Fachartikels weiterführen
+
+## Impediments
+_keine_
+
 # <a name="2020-03-30"></a> Weekly 30.03.2020
 
 ## Work Done
@@ -9,7 +32,7 @@
 * Erster Entwurf des Fachartikels begonnen
 
 ## Next Steps
-* Spotify Access & Refresh Token Handling implementieren
+* Spotify Personal Access & Refresh Token Handling implementieren
 * Persistierung und Laden von Benutzerdaten implementieren
 * Erste Hauptfeatures fertigstellen
   * Party erstellen
