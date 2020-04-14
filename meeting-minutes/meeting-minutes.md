@@ -1,3 +1,27 @@
+# <a name="2020-04-14"></a> Weekly 14.04.2020
+
+## Work Done
+* Sprint 2 Review & Retrospective durchgeführt
+* Sprint 3 Planning durchgeführt
+* Spotify Anonymous Access implementiert
+* Party Sharing Code Generierung implementiert
+* Party Löschen implementiert
+* Party Playlist erstellen gestartet
+* Song Voting Funktionalität gestartet
+* Entwurf des Fachartikels weitergeführt
+
+## Next Steps
+* Party Playlist erstellen fertigstellen
+* Song Voting Funktionalität fertigstellen
+* Party beitreten
+* Party editieren
+* Songs in Queue sortieren
+* Songs zur Party Playlist hinzufügen
+* Entwurf des Fachartikels weiterführen
+
+## Impediments
+_keine_
+
 # <a name="2020-04-06"></a> Weekly 06.04.2020
 
 ## Work Done
