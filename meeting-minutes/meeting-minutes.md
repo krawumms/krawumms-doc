@@ -1,3 +1,27 @@
+# <a name="2020-04-20"></a> Weekly 20.04.2020
+
+## Work Done
+* Party Playlist erstellen fertiggestellt
+* Song Voting Funktionalität fertiggestellt
+* Party beitreten implementiert
+* Party editieren implementiert
+* Songs in Queue sortieren implementiert
+* Songs zur Party Playlist hinzufügen implementiert
+* Entwurf des Fachartikels weitergeführt
+
+## Next Steps
+* Sprint 3 Review & Retrospective
+* Sprint 4 Planning
+* Admin-Zugang zu Parties einschränken
+* Suchen und Hinzufügen von Songs über Party
+* Abspielen von Party Playlist
+* Songs Votes persistieren
+* UI Layout
+* Abgabe Entwurf Fachartikel
+
+## Impediments
+_keine_
+
 # <a name="2020-04-14"></a> Weekly 14.04.2020
 
 ## Work Done
