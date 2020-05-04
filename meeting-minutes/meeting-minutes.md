@@ -1,3 +1,48 @@
+# <a name="2020-05-04"></a> Weekly 04.05.2020
+
+## Work Done
+* Abspielen von Party Playlist fertiggestellt
+* UI Layout fertiggestellt
+* Veto Funktionalität implementiert
+* Verbesserte Voting Funktionalität implementiert
+* Anzeigen von Song Metadaten beim Abspielen implementiert
+* Mobile UI Experience verbessert
+
+## Next Steps
+* Sprint 4 Review & Retrospective
+* Sprint 5 Planning
+* Player verbessern
+* Fachartikel finale Version
+* Basis UI Layout verbessern
+* Backend Tests
+* Frontend Tests
+
+## Impediments
+_keine_
+
+# <a name="2020-04-27"></a> Weekly 27.04.2020
+
+## Work Done
+* Sprint 3 Review & Retrospective durchgeführt
+* Sprint 4 Planning durchgeführt
+* Eingeschränkter Admin-Zugang zu Parties implementiert
+* Suchen und Hinzufügen von Songs über Party implementiert
+* Abspielen von Party Playlist gestartet
+* Songs Votes persistieren implementiert
+* UI Layout gestartet
+* Entwurf Fachartikel abgegeben
+
+## Next Steps
+* Abspielen von Party Playlist fertigstellen
+* UI Layout fertigstellen
+* Veto Funktionalität
+* Verbesserte Voting Funktionalität
+* Anzeigen von Song Metadaten beim Abspielen
+* Mobile UI Experience
+
+## Impediments
+_keine_
+
 # <a name="2020-04-20"></a> Weekly 20.04.2020
 
 ## Work Done
