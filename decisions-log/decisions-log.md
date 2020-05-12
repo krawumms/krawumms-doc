@@ -222,7 +222,7 @@
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	Unsere Applikation muss so einfach wie möglich auf Vercel deployd werden können
+	Unsere Applikation muss so einfach wie möglich auf Vercel bereitgestellt werden können.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
@@ -245,15 +245,15 @@
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	Nach jedem Sprint müssen wir eine Retrospektive druchführen und diese irgendwo erfassen.
+	Nach jedem Sprint müssen wir eine Retrospektive durchführen und diese irgendwo erfassen.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	Wir haben uns für Reetro.io entnschieden, da es genau unseren Erwartungen enspricht.
+	Wir haben uns für Reetro.io entnschieden, da es genau unseren Erwartungen enspricht und sehr simpel zu nutzen ist.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	Tean
+	Team
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
