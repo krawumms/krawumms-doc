@@ -218,46 +218,46 @@
 <table><tr><th>
 	DL00010
 </th><th>
-	...
+	NEXT.js
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Unsere Applikation muss so einfach wie möglich auf Vercel deployd werden können
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Da von Vercel selber NEXT.js empfohlen wird, haben wir uns auch dafür entschieden.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Dario Di Fazio
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
-	...
+	Sprint 1
 </td></tr></table>
 
 # DL00011
 <table><tr><th>
 	DL00011
 </th><th>
-	...
+	Tool für Retrospektive
 </th></tr><tr><td>
 	Problembeschreibung / Ursache für eine Entscheidung
 </td><td>
-	...
+	Nach jedem Sprint müssen wir eine Retrospektive druchführen und diese irgendwo erfassen.
 </td></tr><tr><td>
 	Problemlösung
 </td><td>
-	...
+	Wir haben uns für Reetro.io entnschieden, da es genau unseren Erwartungen enspricht.
 </td></tr><tr><td>
 	Decisionsmaker
 </td><td>
-	...
+	Tean
 </td></tr><tr><td>
 	Zeitpunkt der Entscheidung
 </td><td>
-	...
+	Sprint 1
 </td></tr></table>
 
 # DL00012
