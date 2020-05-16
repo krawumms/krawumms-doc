@@ -1,3 +1,26 @@
+# <a name="2020-05-11"></a> Weekly 11.05.2020
+
+## Work Done
+* Sprint 4 Review & Retrospective durchgeführt
+* Sprint 5 Planning durchgeführt
+* Player Verbesserungen gestartet
+* Fachartikel finale Version fertiggestellt
+* Basis UI Layout verbessert
+* Backend Tests gestartet
+* Frontend Tests gestartet
+
+## Next Steps
+* Player Verbesserungen fertigstellen
+* Backend Tests fertigstellen
+* Frontend Tests fertigstellen
+* Software Guidebook fertigstellen
+* Party / Playlist UI
+* Player UI
+* Party List UI
+
+## Impediments
+_keine_
+
 # <a name="2020-05-04"></a> Weekly 04.05.2020
 
 ## Work Done
