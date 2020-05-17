@@ -1,4 +1,4 @@
-## Index
+# Inhalt
 
 * [Kontext](01.kontext.md)
 	* [Users](01.kontext.md#Users)
