@@ -1,4 +1,5 @@
 # Weekly Meetings
+* [Weekly 18.05.2020](meeting-minutes.md#2020-05-18)
 * [Weekly 11.05.2020](meeting-minutes.md#2020-05-11)
 * [Weekly 04.05.2020](meeting-minutes.md#2020-05-04)
 * [Weekly 27.04.2020](meeting-minutes.md#2020-04-27)

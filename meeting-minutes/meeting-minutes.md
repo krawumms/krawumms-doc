@@ -1,3 +1,20 @@
+# <a name="2020-05-18"></a> Weekly 18.05.2020
+
+## Work Done
+* Player Verbesserungen fertiggestellt
+* Backend Tests fertiggestellt
+* Frontend Tests fertiggestellt
+* Software Guidebook fertiggestellt
+* Party / Playlist UI verbessert
+* Player UI verbessert
+* Party List UI verbessert
+
+## Next Steps
+* Präsentation / Demo vorbereiten
+
+## Impediments
+_keine_
+
 # <a name="2020-05-11"></a> Weekly 11.05.2020
 
 ## Work Done
